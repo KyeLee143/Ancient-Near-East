@@ -4,17 +4,18 @@ body {
   }
   h1 {
    text-align: center;
-    font-family: Times; 
-	size
+   font-family: Times; 
   }
   p {
+   text-align: center;
    font-family: Times;
+   font-size: 20px;
   }
-  img{
+  img{ 
    margin: auto;
    display: block;
-   padding: 15px;
-   border: 5px solid Burlywood;
-   margin: 15px;
+   padding: 0px;
+   border: 5px solid Black;
+  
    
   }
