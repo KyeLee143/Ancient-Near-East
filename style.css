@@ -1,0 +1,20 @@
+
+body {
+  background-color: Burlywood;
+  }
+  h1 {
+   text-align: center;
+    font-family: Times; 
+	size
+  }
+  p {
+   font-family: Times;
+  }
+  img{
+   margin: auto;
+   display: block;
+   padding: 15px;
+   border: 5px solid Burlywood;
+   margin: 15px;
+   
+  }
